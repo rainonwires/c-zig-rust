@@ -1,4 +1,5 @@
 # c-zig-rust
+(WIP)
 
 [Warmup](https://www.codewars.com/) prior to coding.
 
@@ -7,9 +8,9 @@ learning c, zig &amp; rust
 *Some languages to learn in the future using the same method would be... Fortran, CommonLisp, Lambda calculus, Perl, Pascal*
 
 Order of 'completion' 
-1. Zig
-2. C
-3. Rust
+1. [Zig](https://ziglang.org/)
+2. [C](https://en.wikipedia.org/wiki/C_(programming_language))
+3. [Rust](https://www.rust-lang.org/)
 
 To achieve this completion we will follow a list of projects to create with beginner difficulty, intermediate difficulty & advanced difficulty.
 
@@ -19,10 +20,20 @@ To simplify this, we will use check boxes as seen below.
 
 - [ ] Start on [Zig](https://ziglang.org/)
     - [ ] Beginner Projects Completed
-    - [ ] Calculator
-  
+         - [ ] [Calculator](https://github.com/karan/Projects#numbers)
+         - [ ] [Coin Flip Sim](https://github.com/karan/Projects#numbers)
+         - [ ] [Vowel Counter](https://github.com/karan/Projects#text)
+         - [ ] [Simple Cipher](https://github.com/karan/Projects#text) 
+         - [ ] [Quiz Maker](https://github.com/karan/Projects#files) 
+    - [ ] Intermediate Projects Completed
+         - [ ] [Regex Query Tool](https://github.com/karan/Projects#text)
 - [ ] Start on [C](https://en.wikipedia.org/wiki/C_(programming_language))
+    - [ ] Beginner Projects Completed
+        - [ ] Calculator
+ 
 - [ ] Start on [Rust](https://www.rust-lang.org/)
+    - [ ] Beginner Projects Completed
+        - [ ] Calculator
 
 # Sources
 [Mega Project List](https://github.com/karan/Projects)
