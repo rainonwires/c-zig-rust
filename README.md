@@ -12,6 +12,12 @@ Order of 'completion'
 2. [C](https://en.wikipedia.org/wiki/C_(programming_language))
 3. [Rust](https://www.rust-lang.org/)
 
+Easy resources
+### Rust 
+[Rustlings](https://github.com/rust-lang/rustlings)
+[Rust by example](https://doc.rust-lang.org/rust-by-example/)
+[Rust Programming Language 2018 book](https://edu.anarcho-copy.org/Programming%20Languages/Rust/rust-programming-language-steve-klabnik.pdf)
+
 To achieve this completion we will follow a list of projects to create with beginner difficulty, intermediate difficulty & advanced difficulty.
 
 there will be 5 projects in each difficulty.
