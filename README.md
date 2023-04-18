@@ -12,7 +12,7 @@ Order of 'completion'
 2. [C](https://en.wikipedia.org/wiki/C_(programming_language))
 3. [Rust](https://www.rust-lang.org/)
 
-Easy resources
+## Resources
 ### Rust 
 [Rustlings](https://github.com/rust-lang/rustlings)
 [Rust by example](https://doc.rust-lang.org/rust-by-example/)
